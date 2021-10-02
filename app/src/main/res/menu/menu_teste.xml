@@ -21,5 +21,9 @@
         android:title="Perfil2"
         android:icon="@drawable/person_24"
         app:showAsAction="ifRoom"/>
+    <item android:id="@+id/menu_profile3"
+        android:title="Perfil3"
+        android:icon="@drawable/person_24"
+        app:showAsAction="ifRoom"/>
 
 </menu>
